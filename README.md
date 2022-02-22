@@ -1,8 +1,11 @@
 ### 简介
-#### 知识图谱相关
 这是一个基于知识图谱做的问答系统系统demo。  
+相关数据主要来自于：http://www.openkg.cn/dataset/wow
+
+#### 知识图谱相关  
 关于知识图谱的构建可以参考笔者博客：  
 https://blog.csdn.net/gzt940726/article/details/122884131?spm=1001.2014.3001.5502  
+
 相关的文件（jdk环境+neo4j）已经打包好放在百度网盘中，均是解压后即可直接使用    
 链接：https://pan.baidu.com/s/1L93xfUScp8hPUZta0TZnlA  
 提取码：ef5b
